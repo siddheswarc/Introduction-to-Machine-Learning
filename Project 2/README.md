@@ -1,6 +1,6 @@
 # Predictive Models for Detection of crime
 
-The goal of this project statement is to apply Machine Learning to solve the handwriting comparison task in forensics. We formulate this as a problem of Linear Regression where we map a set of input features to a real-valued scalar target.
+The goal of this project is to apply Machine Learning to solve the handwriting comparison task in forensics. We formulate this as a problem of Linear Regression where we map a set of input features to a real-valued scalar target.
 
 The task is to find similarity between the handwritten samples of the known and the questioned writer by using Linear Regression.
 
